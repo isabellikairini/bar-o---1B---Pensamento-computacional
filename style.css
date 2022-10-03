@@ -1,1 +1,10 @@
-
+body {
+    text-align: center;
+    background: rgb(255, 0, 255);
+}
+.capa {
+    width: 100%
+}
+.beneficios {
+    text-align: left;
+}
